@@ -1,3 +1,11 @@
+/*
+here i created class test with 2 objects and i'm passing two arguments from the object.
+By using constructors i stored the id and name and printed the output using reference variable
+ */
+
+
+
+
 class classeg {
 
         int id;

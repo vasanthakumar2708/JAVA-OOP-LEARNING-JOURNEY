@@ -3,8 +3,8 @@ public class staticvariableseg {
 
         public static void main(String[] args) {
             System.out.println(x);
-            System.out.println(staticvariableseg.x);//accessing static variable via class name(recommended if it is in the same class)
-            staticvariableseg t = new staticvariableseg();
+            System.out.println(staticvar2.x);//accessing static variable via class name(recommended if it is in the same class)
+            staticvar2 t = new staticvar2();
             System.out.println(t.x);// accessing static variable via reference variable
         }
     }
