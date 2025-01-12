@@ -106,7 +106,7 @@ Here by using Encapsulation i created a class Bankaccount in that class i create
 bankaccount after that in main function i called the respective functions.
 
 In bankaccount class i only used get set method for accountholdername because we can't change the accountnumber
-or balance, but we can change the accountholder name so why i didn't use get set method for accountnumber and
+or balance, but we can change the accountholder name so that's why I didn't use get set method for accountnumber and
 balance.
 
  */
