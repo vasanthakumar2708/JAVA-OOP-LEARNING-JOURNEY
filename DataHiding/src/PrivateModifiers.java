@@ -17,7 +17,7 @@ class Studentdetails{
     }
 }
 
-public class Privatemodifiers {
+public class PrivateModifiers {
     public static void main(String[] args) {
         Address a = new Address();
 
