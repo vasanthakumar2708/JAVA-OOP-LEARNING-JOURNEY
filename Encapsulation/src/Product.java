@@ -1,7 +1,7 @@
 /*
 Encapsulation :
 Binding the data together with related methods is concept of encapsulation.
-class is the base to define encapsulation and we can achieve it by creating an object of the class
+class is the base to define encapsulation, and we can achieve it by creating an object of the class
  */
 
 
