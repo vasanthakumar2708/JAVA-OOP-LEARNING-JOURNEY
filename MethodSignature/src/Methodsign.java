@@ -5,7 +5,7 @@ method signature.
 
 modifiers and return type are not part of the method signature.
 
-In any java class two methods with same method signature is not allowed.
+In any java class, two methods with the same method signature are not allowed.
 
 Java compiler uses method signature to resolve method invocation
  */
