@@ -9,7 +9,7 @@ provided not the actual implementation of the service.
 
  */
 
-
+//here the below class only provided to the client , the client  can't see the actual implementation
 abstract class car {
     public abstract void drive();
     public abstract void wheel();

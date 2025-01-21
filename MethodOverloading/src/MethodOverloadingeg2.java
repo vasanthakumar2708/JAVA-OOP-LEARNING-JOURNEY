@@ -31,7 +31,7 @@ class MethodOverloadingeg2 {
 
     public static void main(String[] args) {
         m1(5,6); Here it will cause ambuiguity error because the compiler doesn't know what to execute
-                  because the compiler will  be confused which one to type cast(5,6);
+                  because the compiler will be confused which one to type cast(5,6);
     }
 
 }
