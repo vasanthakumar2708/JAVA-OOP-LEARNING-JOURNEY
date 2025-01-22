@@ -15,8 +15,8 @@ public class DataHiding {
 /*
  *The process of hiding the data from direct access is called as data hiding.
  * The main advantage of data hiding is we can achieve security.
- * By using private modifier we can achieve data hiding.
- * here we are trying get balance directly so it gives compilation error.
+ * By using private modifier, we can achieve data hiding.
+ * here we are trying to get balance directly, so it gives compilation error.
  */
 
 
