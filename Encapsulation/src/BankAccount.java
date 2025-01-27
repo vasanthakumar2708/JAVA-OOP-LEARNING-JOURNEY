@@ -82,6 +82,7 @@ class Account {
         account.setaccountHolderName("sanjeevi");
         account.displaydetails();
 
+
     }
 }
 
@@ -102,8 +103,8 @@ class Account {
                              */
 
 /*
-Here by using Encapsulation i created a class Bankaccount in that class i created methods related to the
-bankaccount after that in main function i called the respective functions.
+Here by using Encapsulation, i created a class Bankaccount in that class i created methods related to the
+bankaccount after that in the main function i called the respective functions.
 
 In bankaccount class i only used get set method for accountholdername because we can't change the accountnumber
 or balance, but we can change the accountholder name so that's why I didn't use get set method for accountnumber and
