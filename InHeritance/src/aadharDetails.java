@@ -40,10 +40,10 @@ public class aadharDetails {
 }
 
 /*
-here i created a person class which contains common details and i created classes like student and employee
-i added a specific fiels in the child classes.
+here I created a person class which contains common details, and i created classes like student and employee
+I added a specific fiels in the child classes.
 
-To access parent class i used super keyword
+To access parent class, I used super keyword
 
 This is an example of hierarchial inheritance.
  */

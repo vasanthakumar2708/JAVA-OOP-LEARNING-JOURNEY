@@ -85,10 +85,11 @@ class CurrentAccount extends BankAccount{
 
     @Override
     int withdraw(int withdrawAmount) {
-        if(balance<500){
-            balance-=overdraft_fee;
+
+            balance-=withdrawAmount;
+           if(balance<500){
             System.out.println("Overdraft fee applied");
-            return balance-withdrawAmount;
+            return balance-overdraft_fee;
         }
         return balance-withdrawAmount;
     }
