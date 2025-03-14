@@ -40,7 +40,7 @@ Each folder corresponds to a specific OOP concept with Java code examples and ex
 - Encourage collaboration and feedback.  
 
 ## 📖 Learning Log
-I am also maintaining a [LEARNING_LOG.md](LEARNING_LOG.md) file where I track my daily progress and concepts learned.  
+I am also maintaining a [LEARNING_LOG.md](https://github.com/vasanthakumar2708/JAVA-OOP-LEARNING-JOURNEY/blob/master/Learninglog.md) file where I track my daily progress and concepts learned.  
 
 ## 📬 Feedback & Collaboration
 Feel free to open issues or submit pull requests if you'd like to collaborate or suggest improvements!  
